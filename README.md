@@ -1,72 +1,94 @@
 ![logo](Mohammed_Taheer_banner.png)
 
-<h1 align="center">Hi 👋, I'm Asfiya</h1>
-<h3 align="center">🚀 Python Full Stack Developer | Django | JavaScript | REST APIs | Building Scalable Web Applications</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB0aHhwczRzenQ5OWI2cm03b3l0bG9uYW5yZHE2d3hjZnEwaThjZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n4l0sSeel6X7tHOFzg/giphy.gif">
+<h1 align="center">Hi 👋, I'm Asfiya Dawalkhan</h1>
+<h3 align="center">🚀 Python Full Stack Developer | Data Analytics Enthusiast | Building Scalable & Data-Driven Applications</h3>
 
-- 📫 How to reach me **asfiyadawalkhan@gmail.com**
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/n4l0sSeel6X7tHOFzg/giphy.gif">
+
+---
+
+### 👩‍💻 About Me
+- 🎓 Electronics & Communication Engineering Graduate (2025)
+- 💻 Passionate about **Full Stack Development & Data Analytics**
+- 🧠 Strong foundation in **Python, SQL, and Web Technologies**
+- 📊 Interested in **data-driven decision making & analytics solutions**
 - ⚡ Fun fact: I aim for **O(1)** solutions whenever possible 😄
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
 
-<a href="https://www.linkedin.com/in/asfiya-dawalkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed taheer" height="30" width="40" /></a>
+### 📫 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/asfiya-dawalkhan/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 </p>
 
+- 📧 Email: **asfiyadawalkhan@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> 
+### 🛠️ Tech Stack
 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="java" width="40" height="40"/> 
-  </a>
+#### 💻 Programming & Development
+- Python | JavaScript | SQL  
+- Django | REST APIs  
+- HTML | CSS | Bootstrap  
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" alt="spring boot" width="40" height="40"/> 
- </a>
-  
+#### 🗄️ Databases
+- MySQL (Queries, Joins, Data Handling)
 
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
- </a> 
-    
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
+#### 📊 Data Analytics
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Basic Machine Learning Concepts  
 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+#### ⚙️ Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Jira / ServiceNow (Basics)  
+- Microsoft Excel  
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-  
-  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-  
-<h3>🚀 Projects </h3>
-- 🗳️ [Online Voting System Using Face Recognition]<br>
-- 🗳️ [Diabetes Prediction using Machine Learnig]<br>
+---
 
+### 🚀 Projects
+
+#### 🗳️ Online Voting System Using Face Recognition
+- Built a secure voting platform using **face recognition technology**
+- Ensured authentication and reduced fraudulent voting
+- Integrated backend logic and database handling
+
+#### 🩺 Diabetes Prediction using Machine Learning
+- Developed a predictive model using healthcare dataset  
+- Performed **data preprocessing, feature selection, and model evaluation**  
+- Focused on improving prediction accuracy  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taheer007&show_icons=true&theme=radical" alt="stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taheer007&theme=radical" alt="streak" />
+</p>
+
+---
 
 ### 💡 Dev Quote of the Day
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-### 😂 Dev Joke (Because Why Not)
+---
 
+### 😂 Dev Joke
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&qColor=%23FFDD00" />
 </p>
 
+---
 
 ### 🔄 Profile Views
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=taheer007&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
