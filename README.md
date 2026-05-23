@@ -73,16 +73,6 @@ I’m constantly exploring how data can drive better decisions and enhance user 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taheer007&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taheer007&theme=radical" />
-</p>
-
----
-
 ### 💡 Dev Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -95,9 +85,4 @@ I’m constantly exploring how data can drive better decisions and enhance user 
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&qColor=%23FFDD00" />
 </p>
 
----
 
-### 🔄 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taheer007&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
