@@ -1,18 +1,20 @@
-![logo](Mohammed_Taheer_banner.png)
-
 <h1 align="center">Hi 👋, I'm Asfiya Dawalkhan</h1>
-<h3 align="center">🚀 Python Full Stack Developer | Data Analytics Enthusiast | Building Scalable & Data-Driven Applications</h3>
+<h3 align="center">🚀 Python Full Stack Developer | Data Analytics Enthusiast | Turning Data into Scalable Solutions</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/n4l0sSeel6X7tHOFzg/giphy.gif">
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Electronics & Communication Engineering Graduate (2025)
-- 💻 Passionate about **Full Stack Development & Data Analytics**
-- 🧠 Strong foundation in **Python, SQL, and Web Technologies**
-- 📊 Interested in **data-driven decision making & analytics solutions**
-- ⚡ Fun fact: I aim for **O(1)** solutions whenever possible 😄
+I’m an Electronics & Communication Engineering graduate with a strong passion for building **scalable web applications and data-driven solutions**.  
+
+I enjoy working at the intersection of **development and analytics** — where I can not only build systems but also extract meaningful insights from data to improve them. From designing backend logic using Django to analyzing datasets and building predictive models, I focus on creating solutions that are both **functional and intelligent**.  
+
+I’m constantly exploring how data can drive better decisions and enhance user experiences. With a mindset of continuous learning and problem-solving, I aim to grow into a role where I can contribute to **full stack development combined with analytics and real-world impact**.  
+
+- 💡 Strong believer in **clean code + meaningful insights**
+- 📊 Interested in **Data Analytics, Machine Learning & Backend Systems**
+- ⚡ Fun fact: I aim for **O(1)** solutions whenever possible 😄  
 
 ---
 
@@ -35,18 +37,25 @@
 - HTML | CSS | Bootstrap  
 
 #### 🗄️ Databases
-- MySQL (Queries, Joins, Data Handling)
+- MySQL (Queries, Joins, Data Validation, Optimization Basics)
 
-#### 📊 Data Analytics
+#### 📊 Data Analytics & Machine Learning
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Basic Machine Learning Concepts  
+- Data Visualization (Matplotlib, Seaborn – basics)  
+- Statistical Analysis (mean, variance, distributions)  
+- Feature Engineering (basic)  
+- Machine Learning (Supervised Learning – Regression, Classification)  
+- Model Evaluation (Accuracy, Precision, Recall – basics)  
+
+#### 📈 Data Tools
+- Microsoft Excel (Pivot Tables, Charts, Data Cleaning)  
+- Jupyter Notebook  
 
 #### ⚙️ Tools & Platforms
 - Git & GitHub  
 - VS Code  
 - Jira / ServiceNow (Basics)  
-- Microsoft Excel  
 
 ---
 
@@ -54,22 +63,22 @@
 
 #### 🗳️ Online Voting System Using Face Recognition
 - Built a secure voting platform using **face recognition technology**
-- Ensured authentication and reduced fraudulent voting
-- Integrated backend logic and database handling
+- Ensed authentication and minimized fraudulent voting
+- Integrated backend logic and database management
 
 #### 🩺 Diabetes Prediction using Machine Learning
 - Developed a predictive model using healthcare dataset  
-- Performed **data preprocessing, feature selection, and model evaluation**  
-- Focused on improving prediction accuracy  
+- Performed **data preprocessing, EDA, and model evaluation**  
+- Improved prediction accuracy using ML techniques  
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taheer007&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taheer007&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taheer007&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taheer007&theme=radical" />
 </p>
 
 ---
